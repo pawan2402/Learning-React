@@ -1,0 +1,9 @@
+.foodInput {
+    width: 100%;
+    border: 0px;
+    padding: 10px 10px;
+}
+
+.foodInput:active {
+    border: 0px;
+}
